@@ -2,6 +2,10 @@ source 'https://rubygems.org'
 
 gem 'rails', '~>3.2'
 
+# CyT
+# ===
+gem 'capones_recipes'
+
 # you may comment out the database driver you will not be using.
 # This will prevent a native build of the driver. Building native drivers is not 
 # always possible on all hosters
