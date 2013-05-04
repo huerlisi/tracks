@@ -5,6 +5,7 @@ gem 'rails', '~>3.2'
 # CyT
 # ===
 gem 'capones_recipes'
+gem 'unicorn'
 
 # you may comment out the database driver you will not be using.
 # This will prevent a native build of the driver. Building native drivers is not 
